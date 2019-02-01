@@ -1,0 +1,9 @@
+A Simple student registration system
+
+used  -> Python 3
+      -> MySQL (PHP My Admin)
+    
+Add a new student
+Update student details based on student ID
+Delete a student
+View student details
